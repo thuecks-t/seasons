@@ -1,0 +1,15 @@
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/bin/Debug/net7.0/Seasons.cs
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/bin/Debug/net7.0/Seasons.cs.deps.json
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/bin/Debug/net7.0/Seasons.cs.runtimeconfig.json
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/bin/Debug/net7.0/Seasons.cs.dll
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/bin/Debug/net7.0/Seasons.cs.pdb
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/Seasons.cs.csproj.AssemblyReference.cache
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/Seasons.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/Seasons.cs.AssemblyInfoInputs.cache
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/Seasons.cs.AssemblyInfo.cs
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/Seasons.cs.csproj.CoreCompileInputs.cache
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/Seasons.cs.dll
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/refint/Seasons.cs.dll
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/Seasons.cs.pdb
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/Seasons.cs.genruntimeconfig.cache
+/Users/truitt/Projects/Seasons.cs/Seasons.cs/obj/Debug/net7.0/ref/Seasons.cs.dll
